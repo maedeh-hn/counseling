@@ -1,0 +1,18 @@
+.LogIn{
+    text-align: left;
+}
+
+
+.signUpBt{
+    color:#808080;
+    padding: 10px;
+    font-size: 13px;
+    margin-left: 20px;
+    background-color:#ffcb2d ;
+    border-radius: 8px;
+    color: black;
+    margin-top: 20px;
+}
+.signUpBt:hover{
+    color:#808080 ;
+}

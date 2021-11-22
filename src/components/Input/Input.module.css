@@ -1,0 +1,20 @@
+.InValid{
+    border: 2px solid #f37299;
+    border-radius: 8px;
+}
+
+.form-control{
+    margin-bottom: 30px;
+}
+.form{
+    margin-bottom: 30px;
+    margin-top: 10px;
+   
+}
+.form label{
+    margin-left:20px;
+}
+
+.formcontrol{
+    width:100px
+}

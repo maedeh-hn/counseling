@@ -1,0 +1,8 @@
+export const AUTH_START='AUTH_START'
+export const AUTH_SUCCESS='AUTH_SUCCESS'
+export const AUTH_FAIL='AUTH_FAIL'
+
+
+export const STUFORM_SUCCESS = 'STUFORM_SUCCESS';
+export const STUFORM_FAIL = 'STUFORM_FAIL';
+export const STUFORM_START = 'STUFORM_START';

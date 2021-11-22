@@ -1,0 +1,35 @@
+.select{
+    display: flex;
+    flex-direction: row;
+ 
+    justify-content: space-around;
+    margin-top: 200px;
+    margin-bottom: 300px;
+}
+.selectStu{
+width: 200px;
+height: 200px;
+background-color: #ffcb2d;
+cursor: pointer;
+border-radius: 10px;
+text-decoration: none;
+}
+.selectStu p{
+    text-align: center;
+    font-size: 50px;
+   
+
+    
+}
+.selectCouns{
+    width: 200px;
+    height: 200px;
+    background-color: #ffcb2d;
+    cursor: pointer;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.selectCouns p{
+    text-align: center;
+    font-size: 50px;
+}

@@ -1,0 +1,22 @@
+.Info{
+    text-align: center;
+    
+    
+}
+.infoContainer{
+    box-shadow: 0 10px 20px 0 #85ceed;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.InfoDatailes{
+    margin: 20px;
+}
+.infoH5{
+    color: #5e7582;
+    margin-top: 10px;
+}
