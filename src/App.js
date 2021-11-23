@@ -15,11 +15,11 @@ function App() {
    
  
       <Routes>
-      <Route path='/e' exact component={<Select/>} />
-      <Route path='/' exact component={<Home/>} />
+      <Route path='/e' exact element={<Select/>} />
+      <Route path='/' exact element={<Home/>} />
      
-      <Route path='/e/studentForm'  component={<StudentForm/>} />
-      <Route path='/e/counselForm'  component={<CounselForm/>} />
+      <Route path='/e/studentForm'  element={<StudentForm/>} />
+      <Route path='/e/counselForm'  element={<CounselForm/>} />
       </Routes>
       
  
